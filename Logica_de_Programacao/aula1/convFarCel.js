@@ -16,9 +16,13 @@ console.log(FahrenheitParaCelsius(97))
 
 F=97;
 C=77;
+
 const cParaF = (C * 9/5) + 32
 const fParaC = (F - 32) * 5/9
 
 console.log(cParaF)
 console.log(fParaC)
+
+
+
 

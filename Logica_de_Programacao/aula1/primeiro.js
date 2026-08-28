@@ -1,1 +1,1 @@
-console.log("Olá Mundo");
+console.log('seja bem vindo ao JavaScript')
